@@ -3,7 +3,10 @@
 ## Requirements
 
 - 支持 .Net Standard1.4 及以上版本；
-- 下载SDK 把 Aliyun.Acs.Core.dll 和相应产品的 .dll 文件添加引用到项目中。
+- 使用Nuget安装 (https://preview.nuget.org/packages?q=Ahoo.Aliyun)
+``` C#
+Install-Package Ahoo.Aliyun.Acs.Ecs -Version 1.2.0
+```
 
 ## Example
 
@@ -63,6 +66,7 @@
 
 - [Ma Lijie](https://github.com/malijiefoxmail)
 - [Allen Cai](https://github.com/VAllens)
+- [Ahoo Wang](https://github.com/Ahoo-Wang)
 
 ## License
 
