@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- 支持 .Net Core 1.0 及以上版本；
+- 支持 .Net Standard1.4 及以上版本；
 - 下载SDK 把 Aliyun.Acs.Core.dll 和相应产品的 .dll 文件添加引用到项目中。
 
 ## Example
