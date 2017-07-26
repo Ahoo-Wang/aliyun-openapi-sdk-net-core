@@ -5,18 +5,24 @@
     <AssemblyName>Aliyun.Acs.Mts</AssemblyName>
     <RootNamespace>Aliyun.Acs.Mts</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Aliyun Allen Ahoo</Authors>
+	  <Language>en-US</Language>
+    <Description>aliyun open api sdk for .netstandard1.4</Description>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-    <Authors>Aliyun Allen</Authors>
     <Company>Aliyun</Company>
-    <Description>aliyun open api sdk for .net core</Description>
+    <NeutralLanguage></NeutralLanguage>
+    <Version>1.2.0</Version>
     <Copyright>Copyright (c) 2017 Aliyun</Copyright>
-    <PackageLicenseUrl>https://github.com/VAllens/aliyun-openapi-sdk-net-core/blob/master/LICENSE.md</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/VAllens/aliyun-openapi-sdk-net-core</PackageProjectUrl>
-    <PackageIconUrl>https://raw.githubusercontent.com/VAllens/aliyun-openapi-sdk-net-core/master/logo.png</PackageIconUrl>
-    <RepositoryUrl>https://github.com/VAllens/aliyun-openapi-sdk-net-core</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/Ahoo-Wang/aliyun-openapi-sdk-net-core/blob/master/LICENSE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Ahoo-Wang/aliyun-openapi-sdk-net-core</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/Ahoo-Wang/aliyun-openapi-sdk-net-core/blob/master/logo.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/Ahoo-Wang/aliyun-openapi-sdk-net-core</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>aliyun openapi sdk</PackageTags>
-    <PackageReleaseNotes>https://github.com/VAllens/aliyun-openapi-sdk-net-core/releases</PackageReleaseNotes>
+    <PackageReleaseNotes>https://github.com/Ahoo-Wang/aliyun-openapi-sdk-net-core</PackageReleaseNotes>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
+    <FileVersion>1.2.0.0</FileVersion>
+    <PackageId>Ahoo.Aliyun.Acs.Mts</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
